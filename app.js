@@ -27,15 +27,19 @@ const options = {
   location: 'US',
 };
 
-// Runs the query
-const [rows] = await bigquery.query(options);
+const startQuery = async function() {
+  // Runs the query
+  const [rows] = await bigquery.query(options);
 
-console.log('Query Results:');
-rows.forEach(row => {
-  const url = row['url'];
-  const viewCount = row['view_count'];
-  console.log(`url: ${url}, ${viewCount} views`);
-});
+  console.log('Query Results:');
+  rows.forEach(row => {
+    const url = row['url'];
+    const viewCount = row['view_count'];
+    console.log(`url: ${url}, ${viewCount} views`);
+  });
+}
+
+startQuery();
 
 app.get('/', (req, res) => {
   //res.status(200).send('Hello, world! ');
