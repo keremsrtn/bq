@@ -21,7 +21,7 @@ and deploy this sample.
 
 1.  Clone the repository:
 
-        git clone https://github.com/keremsertan/bq.git
+        git clone https://github.com/keremsrtn/bq.git
 
 1.  Change directory:
 
