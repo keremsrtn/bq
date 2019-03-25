@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "citric-sprite-233507",
+  "private_key_id": "26f7b51a6ea36f918be32c8268a8e2ef0db6547f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoWjL+G8KzqeWo\neWgfnKuK53cy21U0XhBrFO7u7SCqf1I+4W341ohoLS4rmP5rnBUEwq44gF91k2lZ\niUUpS7a0i42VB/ti3eHQIAMY18KBFWebr1ybKofw5iW6aIQ1KIeMBwvZQ9lKPOlM\ndNh/g2lz8xv9hxzMbEWFM1wvtp/R+OeSx68W1MUN6MA5woi7ruJXeJbahFQE5VVW\nNWPNuP0hkgVeuRG4L9iQ+uWElxJDSp3EdcyT4M2P2NfVFEUQO/JXBwJd4EqUsEHw\n4fBLlOeeSFYrQ/HcCZ/sGu+nhV1NROSn0k4UE1MllTG2TBkrwnfYfUtVOijYukgX\nQG3DyeIxAgMBAAECggEACUElGLYotLToFqPu4v77KJh7A1kOhOGPXD2TOV/gafL0\nD9gXUiSj7LsgFL41LS/wMVns1xcKeFWFRupeeovKlD/wJWNCENAi7cyWsv7IVs15\nC7Q+/lofDTFvnUDJ1LzAv8Qy5Ot/hj7VMdJiBNdx3HF+pkgPP5cLlswJGyfaPwHt\ngKY5jAKDhz39awjnlsL9SYM/B/OYEFZkvGUOAG8hLZgPnXRtG4wZJklm5FbcBkRF\nXzDYzLzjmWVuvMaZOtxp3VVLWhAPhyxtE7wRpdyh75EKa12t4MI8oecXg8AShtwy\nLfOTfka4AeDi1y63cRzKtL+ToTFyJRG3GmXJT5VQwQKBgQDfrXIDfAWPCSKVhqhW\niGgbC/BiskzlBOad1sOup06Bs/8bhznatC6Ow6IZg7vtOcowrpNvVH/DZnbNQ56J\nhJ1ZhauQKiahK/vYfI/Vf7M3G2CY9r0k65S67KI4WwZkle1wXQ3H4+QD3EiAIPMx\nDrfoqCj88uDjo91O/xMOJoXoYQKBgQDArhi20wWarHkFQizQUCydx0wVn4HgQW9L\n0En74/CExjHJhH8qgtcS70z4eCWP9GKLcsLOQujj1yW4X5H141BzgwwmBxsxbS9K\nioHrDKrxnTm5iNTXg4YAOvoF7aJv5XPANVxUGhaLDJZE1wvjKQrkWbpY3S/mEN9p\njjbvFVsL0QKBgDpxs2y9pyYsmODBApM5qRoIEJN5SyY8FZYAW7jy9kxln66tsqw2\nkEO1UlGgXiYqB26Y7uUUCx4fU8Nme7Iq+II/rwhIOze5qmByi5KZf1ZSzPaq4dkX\nxRDia7CV+CGoGxZU+hjUrutjT35LHcAfvGYKKkuNmr1gP584ft4fqrWBAoGBALrn\nJioSQJltPGeRbY8UdnMGZBOFiqJSVvefsGSbEzB4YMstr305Ng+z+WH8idM+KGlE\nhRs3ZFm+1WQnsJpoSh4CvMIWmpYzZ3BTMvsiap+898W1qWD0wANxMh6WCL+qP8Hv\nAQTD2aJAL3PPdkSAB4TCVTTmOhRdwZnOzhLVEGBBAoGAKekgr2Q+NwDVuRf7+t5K\nQfRq06yfWgqkRY8NWZOC9NeYU1MbyxKsDJfquOYMy3VK3M92kMVGm3Qhi6jnUuqH\nyyQW7ETibAikN6e8Y3FcgY72FyDVQn2MaYD7fqhZi4d9waFYivE6HQxVka48kF0j\ntpb4DqtBozWVSyZ0fdHubKo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-525@citric-sprite-233507.iam.gserviceaccount.com",
+  "client_id": "114604211936941143789",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-525%40citric-sprite-233507.iam.gserviceaccount.com"
+}
